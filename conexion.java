@@ -48,5 +48,10 @@ public class conexion {
 
 //nuevo metodo para hacer algo
 //algo muy importante
+
+
+//otro metodo aun mas importante a crear
+
+
     
 }
