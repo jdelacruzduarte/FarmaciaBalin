@@ -50,8 +50,5 @@ public class conexion {
 //algo muy importante
 
 
-//otro metodo aun mas importante a crear
-
-
     
 }
