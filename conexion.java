@@ -55,5 +55,11 @@ public void prueba()
 	{
 		
 	}
+	
+//metodo para la version 1.0
+public void test()
+	{
+		
+	}
     
 }
