@@ -50,5 +50,10 @@ public class conexion {
 //algo muy importante
 
 
+//metodo de prueba para git
+public void prueba()
+	{
+		
+	}
     
 }
