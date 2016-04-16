@@ -52,5 +52,16 @@ public class conexion {
 // algo reciente esta por 
 
 
+
+
+public void suma()
+	{
+		//se crea metodo de prueba
+	}
+
+
+
+
+
     
 }
